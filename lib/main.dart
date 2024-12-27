@@ -805,6 +805,7 @@ class ScaffoldNavigationBar extends StatelessWidget {
     return Align(
       alignment: Alignment.bottomCenter,
       child: Container(
+
         width: 281,
         height: 56,
         decoration: BoxDecoration(
